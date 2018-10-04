@@ -181,6 +181,7 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
+  opacity: .5;
 }
 
 header.masthead .intro-text {
